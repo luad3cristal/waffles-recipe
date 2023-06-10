@@ -76,5 +76,12 @@ ol {
 }
 
 ol li {
-  padding: 10px 0;
+  padding: 10px 0 10px 5px;
+}
+
+footer {
+  text-align: center;
+  justify-content: center;
+
+  margin-bottom: 20px;
 }
